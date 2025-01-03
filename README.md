@@ -1,10 +1,4 @@
-
-
-<h1 align="center">Hi 👋, I'm Harry Kodua</h1>
-<h3 align="center">A full-stack dev passionate about game development</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n1md7&label=Profile%20views&color=0e75b6&style=flat" alt="n1md7" /> </p>
-
+![github-header-image](https://github.com/user-attachments/assets/77b1e7c4-2e22-42d7-acd5-c903149adb98)
 
 - 🔭 I’m currently working on [Quoridor 3D](https://n1md7.github.io/GG-Soft-Quoridor/master/)
 
@@ -33,4 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n1md7&" alt="n1md7" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n1md7" alt="n1md7" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n1md7&label=Profile%20views&color=0e75b6&style=flat" alt="n1md7" /> </p>
+
